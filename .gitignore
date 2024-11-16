@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Log file
+*.log
+
+# Environments & Environment Variables
+.venv/
+.env
+
+# VSCode
+.vscode/
+
+# other directories or files
