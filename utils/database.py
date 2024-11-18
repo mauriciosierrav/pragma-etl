@@ -1,10 +1,8 @@
 """Module to interact with a MySQL database"""
 
 from typing import Any
-
 import pymysql
 from pymysql.err import MySQLError
-
 from config import logger
 
 
@@ -67,7 +65,10 @@ class MySQLDatabase:
             if self.connection is None:
                 raise MySQLError("Connection to the database has not been established")
 
-            logger.debug("Executing SQL statement...'")
+            sql_statement = " ".join(line.strip() for line in sql.splitlines() if line.strip())
+            if sql_args:
+                sql_statement = sql_statement % sql_args
+            logger.debug(f"Executing SQL statement '{sql_statement[0:200]}'...")
             cnx = self.connection
             with cnx.cursor() as cursor:
 
@@ -90,7 +91,7 @@ class MySQLDatabase:
                 # Commit the transaction if the commit parameter is set to True
                 if commit:
                     cnx.commit()
-            logger.debug("Query executed successfully")
+            logger.debug("SQL statement executed successfully")
             return result
 
         except Exception as e:
@@ -130,7 +131,7 @@ class MySQLDatabase:
         self, sql: str, sql_args: list[tuple[Any, ...]] | tuple[Any, ...] | None = None
     ):
         """
-        Execute an INSERT statement. Insert records into the database
+        Execute an INSERT statement. Insert rows into the database
 
         Parameters
         ----------
@@ -153,7 +154,7 @@ class MySQLDatabase:
         self, sql: str, sql_args: list[tuple[Any, ...]] | tuple[Any, ...] | None = None
     ):
         """
-        Execute an UPDATE statement. Update records in the database
+        Execute an UPDATE statement. Update rows in the database
 
         Parameters
         ----------
@@ -176,7 +177,7 @@ class MySQLDatabase:
         self, sql: str, sql_args: list[tuple[Any, ...]] | tuple[Any, ...] | None = None
     ):
         """
-        Execute a DELETE statement. Delete records from the database
+        Execute a DELETE statement. Delete rows from the database
 
         Parameters
         ----------

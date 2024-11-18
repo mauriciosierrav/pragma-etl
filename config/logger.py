@@ -3,10 +3,9 @@
 import logging
 import os
 import sys
-from datetime import datetime
 
 
-class Logger:
+class LoggerConfig:
     """
     A class that provides logging functionality.
 
@@ -14,9 +13,9 @@ class Logger:
     ----------
     name : str
         The logger name.
-    StreamHandler : bool
+    stream_handler : bool
         If True, a StreamHandler will be created.
-    FileHandler : bool
+    file_handler : bool
         If True, a FileHandler will be created.
 
     Methods
@@ -38,7 +37,7 @@ class Logger:
             self._configure_handlers(stream_handler, file_handler)
 
     def _configure_handlers(self, stream_handler, file_handler):
-        """Set handler to logger"""
+        """Set handlers for the logger"""
 
         # Formatter
         formatter = logging.Formatter(
@@ -55,8 +54,7 @@ class Logger:
         # FileHandler
         if file_handler:
             path = os.path.abspath(".")
-            fecha = datetime.now().strftime("%Y-%m-%d %H-%M-%S")
-            log_file_path = os.path.join(path, f"{self.logger.name} {fecha}.log")
+            log_file_path = os.path.join(path, f"{self.logger.name}.log")
 
             fh = logging.FileHandler(log_file_path, mode="w", encoding="utf-8")
             fh.setLevel(10)
@@ -72,5 +70,4 @@ class Logger:
 
 
 # Centralized logger configuration
-logger = Logger("general-logger").get_logger()
-metrics_logger = Logger("metrics-logger", stream_handler=False).get_logger()
+logger = LoggerConfig("logs").get_logger()

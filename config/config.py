@@ -11,7 +11,7 @@ def _get_env_var(var_name: str):
 
     # If it is not defined, try to load the .env file
     if var is None:
-        load_dotenv(override=True)  # Cargar el archivo .env si no se ha hecho antes
+        load_dotenv(override=True)
         var = os.getenv(var_name)
 
     # If the variable is still not defined, raise an exception

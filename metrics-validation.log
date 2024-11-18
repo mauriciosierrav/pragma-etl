@@ -1,0 +1,144 @@
+2024-11-18 14:48:52 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/validation.csv',
+                    Microbatch: 1,
+                    Total rows processed: 1,
+                    Actual row price: 26,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 1,
+                    Sum price: 26,
+                    Average price: 26.0
+                    Min price: 26
+                    Max price: 26
+                    
+2024-11-18 14:48:52 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/validation.csv',
+                    Microbatch: 1,
+                    Total rows processed: 2,
+                    Actual row price: 11,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 2,
+                    Sum price: 37,
+                    Average price: 18.5
+                    Min price: 11
+                    Max price: 26
+                    
+2024-11-18 14:48:52 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/validation.csv',
+                    Microbatch: 1,
+                    Total rows processed: 3,
+                    Actual row price: 13,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 3,
+                    Sum price: 50,
+                    Average price: 16.666666666666668
+                    Min price: 11
+                    Max price: 26
+                    
+2024-11-18 14:48:52 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/validation.csv',
+                    Microbatch: 1,
+                    Total rows processed: 4,
+                    Actual row price: 92,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 4,
+                    Sum price: 142,
+                    Average price: 35.5
+                    Min price: 11
+                    Max price: 92
+                    
+2024-11-18 14:48:53 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/validation.csv',
+                    Microbatch: 1,
+                    Total rows processed: 5,
+                    Actual row price: 31,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 5,
+                    Sum price: 173,
+                    Average price: 34.6
+                    Min price: 11
+                    Max price: 92
+                    
+2024-11-18 14:48:53 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/validation.csv',
+                    Microbatch: 2,
+                    Total rows processed: 6,
+                    Actual row price: 62,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 6,
+                    Sum price: 235,
+                    Average price: 39.166666666666664
+                    Min price: 11
+                    Max price: 92
+                    
+2024-11-18 14:48:53 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/validation.csv',
+                    Microbatch: 2,
+                    Total rows processed: 7,
+                    Actual row price: 13,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 7,
+                    Sum price: 248,
+                    Average price: 35.42857142857143
+                    Min price: 11
+                    Max price: 92
+                    
+2024-11-18 14:48:53 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/validation.csv',
+                    Microbatch: 2,
+                    Total rows processed: 8,
+                    Actual row price: 86,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 8,
+                    Sum price: 334,
+                    Average price: 41.75
+                    Min price: 11
+                    Max price: 92
+                    

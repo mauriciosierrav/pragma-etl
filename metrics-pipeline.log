@@ -1,0 +1,2574 @@
+2024-11-18 14:48:17 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 1,
+                    Total rows processed: 1,
+                    Actual row price: 50,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 1,
+                    Sum price: 50,
+                    Average price: 50.0
+                    Min price: 50
+                    Max price: 50
+                    
+2024-11-18 14:48:17 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 1,
+                    Total rows processed: 2,
+                    Actual row price: 87,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 2,
+                    Sum price: 137,
+                    Average price: 68.5
+                    Min price: 50
+                    Max price: 87
+                    
+2024-11-18 14:48:18 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 1,
+                    Total rows processed: 3,
+                    Actual row price: 64,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 3,
+                    Sum price: 201,
+                    Average price: 67.0
+                    Min price: 50
+                    Max price: 87
+                    
+2024-11-18 14:48:18 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 1,
+                    Total rows processed: 4,
+                    Actual row price: 20,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 4,
+                    Sum price: 221,
+                    Average price: 55.25
+                    Min price: 20
+                    Max price: 87
+                    
+2024-11-18 14:48:18 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 1,
+                    Total rows processed: 5,
+                    Actual row price: 14,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 5,
+                    Sum price: 235,
+                    Average price: 47.0
+                    Min price: 14
+                    Max price: 87
+                    
+2024-11-18 14:48:18 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 2,
+                    Total rows processed: 6,
+                    Actual row price: 95,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 6,
+                    Sum price: 330,
+                    Average price: 55.0
+                    Min price: 14
+                    Max price: 95
+                    
+2024-11-18 14:48:18 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 2,
+                    Total rows processed: 7,
+                    Actual row price: 95,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 7,
+                    Sum price: 425,
+                    Average price: 60.714285714285715
+                    Min price: 14
+                    Max price: 95
+                    
+2024-11-18 14:48:18 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 2,
+                    Total rows processed: 8,
+                    Actual row price: 62,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 8,
+                    Sum price: 487,
+                    Average price: 60.875
+                    Min price: 14
+                    Max price: 95
+                    
+2024-11-18 14:48:19 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 2,
+                    Total rows processed: 9,
+                    Actual row price: 46,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 9,
+                    Sum price: 533,
+                    Average price: 59.22222222222222
+                    Min price: 14
+                    Max price: 95
+                    
+2024-11-18 14:48:19 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 2,
+                    Total rows processed: 10,
+                    Actual row price: 97,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 10,
+                    Sum price: 630,
+                    Average price: 63.0
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:19 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 3,
+                    Total rows processed: 11,
+                    Actual row price: 31.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 11,
+                    Sum price: 661.0,
+                    Average price: 60.09090909090909
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:19 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 3,
+                    Total rows processed: 12,
+                    Actual row price: None,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 12,
+                    Sum price: 661.0,
+                    Average price: 60.09090909090909
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:19 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 3,
+                    Total rows processed: 13,
+                    Actual row price: 37.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 13,
+                    Sum price: 698.0,
+                    Average price: 58.166666666666664
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:19 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 3,
+                    Total rows processed: 14,
+                    Actual row price: 74.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 14,
+                    Sum price: 772.0,
+                    Average price: 59.38461538461539
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:20 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 3,
+                    Total rows processed: 15,
+                    Actual row price: 45.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 15,
+                    Sum price: 817.0,
+                    Average price: 58.357142857142854
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:20 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 4,
+                    Total rows processed: 16,
+                    Actual row price: 27,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 16,
+                    Sum price: 844.0,
+                    Average price: 56.266666666666666
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:20 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 4,
+                    Total rows processed: 17,
+                    Actual row price: 78,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 17,
+                    Sum price: 922.0,
+                    Average price: 57.625
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:20 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 4,
+                    Total rows processed: 18,
+                    Actual row price: 42,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 18,
+                    Sum price: 964.0,
+                    Average price: 56.705882352941174
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:20 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 4,
+                    Total rows processed: 19,
+                    Actual row price: 45,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 19,
+                    Sum price: 1009.0,
+                    Average price: 56.05555555555556
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:21 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 4,
+                    Total rows processed: 20,
+                    Actual row price: 96,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 20,
+                    Sum price: 1105.0,
+                    Average price: 58.1578947368421
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:21 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 5,
+                    Total rows processed: 21,
+                    Actual row price: None,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 21,
+                    Sum price: 1105.0,
+                    Average price: 58.1578947368421
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:21 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-1.csv',
+                    Microbatch: 5,
+                    Total rows processed: 22,
+                    Actual row price: 88.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 22,
+                    Sum price: 1193.0,
+                    Average price: 59.65
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:21 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 1,
+                    Total rows processed: 1,
+                    Actual row price: 76,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 23,
+                    Sum price: 1269.0,
+                    Average price: 60.42857142857143
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:21 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 1,
+                    Total rows processed: 2,
+                    Actual row price: 66,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 24,
+                    Sum price: 1335.0,
+                    Average price: 60.68181818181818
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:21 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 1,
+                    Total rows processed: 3,
+                    Actual row price: 47,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 25,
+                    Sum price: 1382.0,
+                    Average price: 60.08695652173913
+                    Min price: 14
+                    Max price: 97
+                    
+2024-11-18 14:48:22 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 1,
+                    Total rows processed: 4,
+                    Actual row price: 100,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 26,
+                    Sum price: 1482.0,
+                    Average price: 61.75
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:22 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 1,
+                    Total rows processed: 5,
+                    Actual row price: 19,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 27,
+                    Sum price: 1501.0,
+                    Average price: 60.04
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:22 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 2,
+                    Total rows processed: 6,
+                    Actual row price: 59,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 28,
+                    Sum price: 1560.0,
+                    Average price: 60.0
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:22 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 2,
+                    Total rows processed: 7,
+                    Actual row price: 77,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 29,
+                    Sum price: 1637.0,
+                    Average price: 60.629629629629626
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:22 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 2,
+                    Total rows processed: 8,
+                    Actual row price: 100,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 30,
+                    Sum price: 1737.0,
+                    Average price: 62.035714285714285
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:22 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 2,
+                    Total rows processed: 9,
+                    Actual row price: 55,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 31,
+                    Sum price: 1792.0,
+                    Average price: 61.793103448275865
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:23 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 2,
+                    Total rows processed: 10,
+                    Actual row price: 19,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 32,
+                    Sum price: 1811.0,
+                    Average price: 60.36666666666667
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:23 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 3,
+                    Total rows processed: 11,
+                    Actual row price: 95,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 33,
+                    Sum price: 1906.0,
+                    Average price: 61.483870967741936
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:23 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 3,
+                    Total rows processed: 12,
+                    Actual row price: 73,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 34,
+                    Sum price: 1979.0,
+                    Average price: 61.84375
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:23 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 3,
+                    Total rows processed: 13,
+                    Actual row price: 32,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 35,
+                    Sum price: 2011.0,
+                    Average price: 60.93939393939394
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:23 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 3,
+                    Total rows processed: 14,
+                    Actual row price: 95,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 36,
+                    Sum price: 2106.0,
+                    Average price: 61.94117647058823
+                    Min price: 14
+                    Max price: 100
+                    
+2024-11-18 14:48:23 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 3,
+                    Total rows processed: 15,
+                    Actual row price: 12,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 37,
+                    Sum price: 2118.0,
+                    Average price: 60.51428571428571
+                    Min price: 12
+                    Max price: 100
+                    
+2024-11-18 14:48:24 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 4,
+                    Total rows processed: 16,
+                    Actual row price: 37,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 38,
+                    Sum price: 2155.0,
+                    Average price: 59.861111111111114
+                    Min price: 12
+                    Max price: 100
+                    
+2024-11-18 14:48:24 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 4,
+                    Total rows processed: 17,
+                    Actual row price: 28,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 39,
+                    Sum price: 2183.0,
+                    Average price: 59.0
+                    Min price: 12
+                    Max price: 100
+                    
+2024-11-18 14:48:24 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 4,
+                    Total rows processed: 18,
+                    Actual row price: 10,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 40,
+                    Sum price: 2193.0,
+                    Average price: 57.71052631578947
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:24 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 4,
+                    Total rows processed: 19,
+                    Actual row price: 27,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 41,
+                    Sum price: 2220.0,
+                    Average price: 56.92307692307692
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:24 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 4,
+                    Total rows processed: 20,
+                    Actual row price: 14,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 42,
+                    Sum price: 2234.0,
+                    Average price: 55.85
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:25 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 5,
+                    Total rows processed: 21,
+                    Actual row price: 87,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 43,
+                    Sum price: 2321.0,
+                    Average price: 56.609756097560975
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:25 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 5,
+                    Total rows processed: 22,
+                    Actual row price: 75,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 44,
+                    Sum price: 2396.0,
+                    Average price: 57.04761904761905
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:25 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 5,
+                    Total rows processed: 23,
+                    Actual row price: 36,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 45,
+                    Sum price: 2432.0,
+                    Average price: 56.55813953488372
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:25 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 5,
+                    Total rows processed: 24,
+                    Actual row price: 84,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 46,
+                    Sum price: 2516.0,
+                    Average price: 57.18181818181818
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:25 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 5,
+                    Total rows processed: 25,
+                    Actual row price: 62,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 47,
+                    Sum price: 2578.0,
+                    Average price: 57.28888888888889
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:25 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 6,
+                    Total rows processed: 26,
+                    Actual row price: 56,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 48,
+                    Sum price: 2634.0,
+                    Average price: 57.26086956521739
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:26 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 6,
+                    Total rows processed: 27,
+                    Actual row price: 17,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 49,
+                    Sum price: 2651.0,
+                    Average price: 56.40425531914894
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:26 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 6,
+                    Total rows processed: 28,
+                    Actual row price: 64,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 50,
+                    Sum price: 2715.0,
+                    Average price: 56.5625
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:26 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-2.csv',
+                    Microbatch: 6,
+                    Total rows processed: 29,
+                    Actual row price: 68,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 51,
+                    Sum price: 2783.0,
+                    Average price: 56.795918367346935
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:26 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 1,
+                    Total rows processed: 1,
+                    Actual row price: 75,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 52,
+                    Sum price: 2858.0,
+                    Average price: 57.16
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:26 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 1,
+                    Total rows processed: 2,
+                    Actual row price: 12,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 53,
+                    Sum price: 2870.0,
+                    Average price: 56.27450980392157
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:26 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 1,
+                    Total rows processed: 3,
+                    Actual row price: 71,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 54,
+                    Sum price: 2941.0,
+                    Average price: 56.55769230769231
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:27 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 1,
+                    Total rows processed: 4,
+                    Actual row price: 73,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 55,
+                    Sum price: 3014.0,
+                    Average price: 56.867924528301884
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:27 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 1,
+                    Total rows processed: 5,
+                    Actual row price: 21,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 56,
+                    Sum price: 3035.0,
+                    Average price: 56.2037037037037
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:27 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 2,
+                    Total rows processed: 6,
+                    Actual row price: 27,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 57,
+                    Sum price: 3062.0,
+                    Average price: 55.67272727272727
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:27 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 2,
+                    Total rows processed: 7,
+                    Actual row price: 81,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 58,
+                    Sum price: 3143.0,
+                    Average price: 56.125
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:27 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 2,
+                    Total rows processed: 8,
+                    Actual row price: 99,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 59,
+                    Sum price: 3242.0,
+                    Average price: 56.87719298245614
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:27 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 2,
+                    Total rows processed: 9,
+                    Actual row price: 69,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 60,
+                    Sum price: 3311.0,
+                    Average price: 57.08620689655172
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:28 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 2,
+                    Total rows processed: 10,
+                    Actual row price: 19,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 61,
+                    Sum price: 3330.0,
+                    Average price: 56.440677966101696
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:28 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 3,
+                    Total rows processed: 11,
+                    Actual row price: 32,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 62,
+                    Sum price: 3362.0,
+                    Average price: 56.03333333333333
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:28 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 3,
+                    Total rows processed: 12,
+                    Actual row price: 95,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 63,
+                    Sum price: 3457.0,
+                    Average price: 56.67213114754098
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:28 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 3,
+                    Total rows processed: 13,
+                    Actual row price: 71,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 64,
+                    Sum price: 3528.0,
+                    Average price: 56.903225806451616
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:28 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 3,
+                    Total rows processed: 14,
+                    Actual row price: 63,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 65,
+                    Sum price: 3591.0,
+                    Average price: 57.0
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:29 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 3,
+                    Total rows processed: 15,
+                    Actual row price: 53,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 66,
+                    Sum price: 3644.0,
+                    Average price: 56.9375
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:29 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 4,
+                    Total rows processed: 16,
+                    Actual row price: 87,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 67,
+                    Sum price: 3731.0,
+                    Average price: 57.4
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:29 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 4,
+                    Total rows processed: 17,
+                    Actual row price: 89,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 68,
+                    Sum price: 3820.0,
+                    Average price: 57.878787878787875
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:29 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 4,
+                    Total rows processed: 18,
+                    Actual row price: 13,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 69,
+                    Sum price: 3833.0,
+                    Average price: 57.208955223880594
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:29 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 4,
+                    Total rows processed: 19,
+                    Actual row price: 74,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 70,
+                    Sum price: 3907.0,
+                    Average price: 57.455882352941174
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:29 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 4,
+                    Total rows processed: 20,
+                    Actual row price: 84,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 71,
+                    Sum price: 3991.0,
+                    Average price: 57.84057971014493
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:30 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 5,
+                    Total rows processed: 21,
+                    Actual row price: 18,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 72,
+                    Sum price: 4009.0,
+                    Average price: 57.27142857142857
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:30 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 5,
+                    Total rows processed: 22,
+                    Actual row price: 32,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 73,
+                    Sum price: 4041.0,
+                    Average price: 56.91549295774648
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:30 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 5,
+                    Total rows processed: 23,
+                    Actual row price: 96,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 74,
+                    Sum price: 4137.0,
+                    Average price: 57.458333333333336
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:30 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 5,
+                    Total rows processed: 24,
+                    Actual row price: 54,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 75,
+                    Sum price: 4191.0,
+                    Average price: 57.41095890410959
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:30 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 5,
+                    Total rows processed: 25,
+                    Actual row price: 82,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 76,
+                    Sum price: 4273.0,
+                    Average price: 57.74324324324324
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:30 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 6,
+                    Total rows processed: 26,
+                    Actual row price: 74,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 77,
+                    Sum price: 4347.0,
+                    Average price: 57.96
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:31 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 6,
+                    Total rows processed: 27,
+                    Actual row price: 59,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 78,
+                    Sum price: 4406.0,
+                    Average price: 57.973684210526315
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:31 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 6,
+                    Total rows processed: 28,
+                    Actual row price: 33,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 79,
+                    Sum price: 4439.0,
+                    Average price: 57.64935064935065
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:31 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 6,
+                    Total rows processed: 29,
+                    Actual row price: 46,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 80,
+                    Sum price: 4485.0,
+                    Average price: 57.5
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:31 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 6,
+                    Total rows processed: 30,
+                    Actual row price: 83,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 81,
+                    Sum price: 4568.0,
+                    Average price: 57.822784810126585
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:31 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-3.csv',
+                    Microbatch: 7,
+                    Total rows processed: 31,
+                    Actual row price: 65,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 82,
+                    Sum price: 4633.0,
+                    Average price: 57.9125
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:32 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 1,
+                    Total rows processed: 1,
+                    Actual row price: 87,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 83,
+                    Sum price: 4720.0,
+                    Average price: 58.27160493827161
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:32 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 1,
+                    Total rows processed: 2,
+                    Actual row price: 43,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 84,
+                    Sum price: 4763.0,
+                    Average price: 58.08536585365854
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:32 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 1,
+                    Total rows processed: 3,
+                    Actual row price: 23,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 85,
+                    Sum price: 4786.0,
+                    Average price: 57.66265060240964
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:32 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 1,
+                    Total rows processed: 4,
+                    Actual row price: 91,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 86,
+                    Sum price: 4877.0,
+                    Average price: 58.05952380952381
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:32 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 1,
+                    Total rows processed: 5,
+                    Actual row price: 81,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 87,
+                    Sum price: 4958.0,
+                    Average price: 58.32941176470588
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:32 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 2,
+                    Total rows processed: 6,
+                    Actual row price: 68,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 88,
+                    Sum price: 5026.0,
+                    Average price: 58.44186046511628
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:33 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 2,
+                    Total rows processed: 7,
+                    Actual row price: 61,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 89,
+                    Sum price: 5087.0,
+                    Average price: 58.47126436781609
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:33 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 2,
+                    Total rows processed: 8,
+                    Actual row price: 13,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 90,
+                    Sum price: 5100.0,
+                    Average price: 57.95454545454545
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:33 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 2,
+                    Total rows processed: 9,
+                    Actual row price: 12,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 91,
+                    Sum price: 5112.0,
+                    Average price: 57.438202247191015
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:33 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 2,
+                    Total rows processed: 10,
+                    Actual row price: 61,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 92,
+                    Sum price: 5173.0,
+                    Average price: 57.477777777777774
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:33 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 3,
+                    Total rows processed: 11,
+                    Actual row price: 63,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 93,
+                    Sum price: 5236.0,
+                    Average price: 57.53846153846154
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:33 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 3,
+                    Total rows processed: 12,
+                    Actual row price: 88,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 94,
+                    Sum price: 5324.0,
+                    Average price: 57.869565217391305
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:34 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 3,
+                    Total rows processed: 13,
+                    Actual row price: 63,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 95,
+                    Sum price: 5387.0,
+                    Average price: 57.924731182795696
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:34 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 3,
+                    Total rows processed: 14,
+                    Actual row price: 50,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 96,
+                    Sum price: 5437.0,
+                    Average price: 57.840425531914896
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:34 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 3,
+                    Total rows processed: 15,
+                    Actual row price: 97,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 97,
+                    Sum price: 5534.0,
+                    Average price: 58.252631578947366
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:34 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 4,
+                    Total rows processed: 16,
+                    Actual row price: 90.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 98,
+                    Sum price: 5624.0,
+                    Average price: 58.583333333333336
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:34 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 4,
+                    Total rows processed: 17,
+                    Actual row price: None,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 99,
+                    Sum price: 5624.0,
+                    Average price: 58.583333333333336
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:34 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 4,
+                    Total rows processed: 18,
+                    Actual row price: 79.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 100,
+                    Sum price: 5703.0,
+                    Average price: 58.79381443298969
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:35 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 4,
+                    Total rows processed: 19,
+                    Actual row price: 10.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 101,
+                    Sum price: 5713.0,
+                    Average price: 58.295918367346935
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:35 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 4,
+                    Total rows processed: 20,
+                    Actual row price: 21.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 102,
+                    Sum price: 5734.0,
+                    Average price: 57.91919191919192
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:35 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 5,
+                    Total rows processed: 21,
+                    Actual row price: 68,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 103,
+                    Sum price: 5802.0,
+                    Average price: 58.02
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:35 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 5,
+                    Total rows processed: 22,
+                    Actual row price: 77,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 104,
+                    Sum price: 5879.0,
+                    Average price: 58.20792079207921
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:35 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 5,
+                    Total rows processed: 23,
+                    Actual row price: 19,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 105,
+                    Sum price: 5898.0,
+                    Average price: 57.8235294117647
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:35 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 5,
+                    Total rows processed: 24,
+                    Actual row price: 82,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 106,
+                    Sum price: 5980.0,
+                    Average price: 58.05825242718446
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:36 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 5,
+                    Total rows processed: 25,
+                    Actual row price: 43,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 107,
+                    Sum price: 6023.0,
+                    Average price: 57.91346153846154
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:36 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 6,
+                    Total rows processed: 26,
+                    Actual row price: 55.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 108,
+                    Sum price: 6078.0,
+                    Average price: 57.885714285714286
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:36 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 6,
+                    Total rows processed: 27,
+                    Actual row price: None,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 109,
+                    Sum price: 6078.0,
+                    Average price: 57.885714285714286
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:36 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 6,
+                    Total rows processed: 28,
+                    Actual row price: 53.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 110,
+                    Sum price: 6131.0,
+                    Average price: 57.839622641509436
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:36 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 6,
+                    Total rows processed: 29,
+                    Actual row price: 33.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 111,
+                    Sum price: 6164.0,
+                    Average price: 57.60747663551402
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:37 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-4.csv',
+                    Microbatch: 6,
+                    Total rows processed: 30,
+                    Actual row price: 76.0,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 112,
+                    Sum price: 6240.0,
+                    Average price: 57.77777777777778
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:37 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 1,
+                    Total rows processed: 1,
+                    Actual row price: 82,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 113,
+                    Sum price: 6322.0,
+                    Average price: 58.0
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:37 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 1,
+                    Total rows processed: 2,
+                    Actual row price: 61,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 114,
+                    Sum price: 6383.0,
+                    Average price: 58.027272727272724
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:37 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 1,
+                    Total rows processed: 3,
+                    Actual row price: 19,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 115,
+                    Sum price: 6402.0,
+                    Average price: 57.67567567567568
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:37 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 1,
+                    Total rows processed: 4,
+                    Actual row price: 94,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 116,
+                    Sum price: 6496.0,
+                    Average price: 58.0
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:37 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 1,
+                    Total rows processed: 5,
+                    Actual row price: 17,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 117,
+                    Sum price: 6513.0,
+                    Average price: 57.63716814159292
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:38 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 2,
+                    Total rows processed: 6,
+                    Actual row price: 19,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 118,
+                    Sum price: 6532.0,
+                    Average price: 57.29824561403509
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:38 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 2,
+                    Total rows processed: 7,
+                    Actual row price: 66,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 119,
+                    Sum price: 6598.0,
+                    Average price: 57.37391304347826
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:38 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 2,
+                    Total rows processed: 8,
+                    Actual row price: 13,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 120,
+                    Sum price: 6611.0,
+                    Average price: 56.991379310344826
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:38 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 2,
+                    Total rows processed: 9,
+                    Actual row price: 31,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 121,
+                    Sum price: 6642.0,
+                    Average price: 56.76923076923077
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:38 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 2,
+                    Total rows processed: 10,
+                    Actual row price: 95,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 122,
+                    Sum price: 6737.0,
+                    Average price: 57.09322033898305
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:38 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 3,
+                    Total rows processed: 11,
+                    Actual row price: 77,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 123,
+                    Sum price: 6814.0,
+                    Average price: 57.260504201680675
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:39 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 3,
+                    Total rows processed: 12,
+                    Actual row price: 16,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 124,
+                    Sum price: 6830.0,
+                    Average price: 56.916666666666664
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:39 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 3,
+                    Total rows processed: 13,
+                    Actual row price: 22,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 125,
+                    Sum price: 6852.0,
+                    Average price: 56.62809917355372
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:39 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 3,
+                    Total rows processed: 14,
+                    Actual row price: 91,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 126,
+                    Sum price: 6943.0,
+                    Average price: 56.90983606557377
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:39 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 3,
+                    Total rows processed: 15,
+                    Actual row price: 44,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 127,
+                    Sum price: 6987.0,
+                    Average price: 56.80487804878049
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:39 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 4,
+                    Total rows processed: 16,
+                    Actual row price: 84,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 128,
+                    Sum price: 7071.0,
+                    Average price: 57.024193548387096
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:40 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 4,
+                    Total rows processed: 17,
+                    Actual row price: 64,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 129,
+                    Sum price: 7135.0,
+                    Average price: 57.08
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:40 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 4,
+                    Total rows processed: 18,
+                    Actual row price: 83,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 130,
+                    Sum price: 7218.0,
+                    Average price: 57.285714285714285
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:40 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 4,
+                    Total rows processed: 19,
+                    Actual row price: 30,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 131,
+                    Sum price: 7248.0,
+                    Average price: 57.07086614173228
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:40 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 4,
+                    Total rows processed: 20,
+                    Actual row price: 62,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 132,
+                    Sum price: 7310.0,
+                    Average price: 57.109375
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:40 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 5,
+                    Total rows processed: 21,
+                    Actual row price: 89,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 133,
+                    Sum price: 7399.0,
+                    Average price: 57.35658914728682
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:40 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 5,
+                    Total rows processed: 22,
+                    Actual row price: 88,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 134,
+                    Sum price: 7487.0,
+                    Average price: 57.59230769230769
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:41 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 5,
+                    Total rows processed: 23,
+                    Actual row price: 34,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 135,
+                    Sum price: 7521.0,
+                    Average price: 57.412213740458014
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:41 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 5,
+                    Total rows processed: 24,
+                    Actual row price: 100,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 136,
+                    Sum price: 7621.0,
+                    Average price: 57.734848484848484
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:41 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 5,
+                    Total rows processed: 25,
+                    Actual row price: 77,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 137,
+                    Sum price: 7698.0,
+                    Average price: 57.8796992481203
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:41 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 6,
+                    Total rows processed: 26,
+                    Actual row price: 91,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 138,
+                    Sum price: 7789.0,
+                    Average price: 58.12686567164179
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:41 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 6,
+                    Total rows processed: 27,
+                    Actual row price: 61,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 139,
+                    Sum price: 7850.0,
+                    Average price: 58.148148148148145
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:41 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 6,
+                    Total rows processed: 28,
+                    Actual row price: 67,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 140,
+                    Sum price: 7917.0,
+                    Average price: 58.213235294117645
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:42 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 6,
+                    Total rows processed: 29,
+                    Actual row price: 39,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 141,
+                    Sum price: 7956.0,
+                    Average price: 58.07299270072993
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:42 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 6,
+                    Total rows processed: 30,
+                    Actual row price: 57,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 142,
+                    Sum price: 8013.0,
+                    Average price: 58.06521739130435
+                    Min price: 10
+                    Max price: 100
+                    
+2024-11-18 14:48:42 - INFO - 
+                    -----------------------------------------
+                    ---------- ACTUAL FILE METRICS ----------
+                    -----------------------------------------
+                    Actual file: './data/2012-5.csv',
+                    Microbatch: 7,
+                    Total rows processed: 31,
+                    Actual row price: 33,
+
+                    -----------------------------------------
+                    -------- ACTUAL PIPELINE METRICS --------
+                    -----------------------------------------
+                    Total rows processed: 143,
+                    Sum price: 8046.0,
+                    Average price: 57.884892086330936
+                    Min price: 10
+                    Max price: 100
+                    
